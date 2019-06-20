@@ -1,0 +1,1747 @@
+[
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'qsVPcGsBcbSxmKegFplR',
+    _score: null,
+    _source: {
+      video_id: 'kt2TZzhkOPw',
+      text: 'Android Promotional Video Video about the various features the',
+      views: 16291142,
+      likes: 2258,
+      dislikes: 1112,
+      creation_date: 1552670215000,
+      trend_score: 1.9697159966
+    },
+    sort: [ 1.969716 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'hsVPcGsBcbSxmKegFppW',
+    _score: null,
+    _source: {
+      video_id: 'QjRE_RHnOVk',
+      text: 'VIVO Phone VIVO',
+      views: 11328831,
+      likes: 79,
+      dislikes: 9,
+      creation_date: 1553758841000,
+      trend_score: 1.5701168796
+    },
+    sort: [ 1.5701169 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'vMVPcGsBcbSxmKegFplS',
+    _score: null,
+    _source: {
+      video_id: 'AC6YwpHbvls',
+      text: 'Watch your shows entertainment beech shows',
+      views: 11401726,
+      likes: 230,
+      dislikes: 34,
+      creation_date: 1551086826000,
+      trend_score: 1.1535727748
+    },
+    sort: [ 1.1535728 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'aMVPcGsBcbSxmKegFppW',
+    _score: null,
+    _source: {
+      video_id: '1gA8ckak3Ao',
+      text: 'VIVO Phone VIVO',
+      views: 6785067,
+      likes: 104,
+      dislikes: 21,
+      creation_date: 1554574490000,
+      trend_score: 1.060432956
+    },
+    sort: [ 1.0604329 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'K8VPcGsBcbSxmKegFppU',
+    _score: null,
+    _source: {
+      video_id: 'F1Wi4TYWLk8',
+      text: 'VIVO Phone VIVO',
+      views: 3759536,
+      likes: 44,
+      dislikes: 26,
+      creation_date: 1556707959000,
+      trend_score: 0.8813423281
+    },
+    sort: [ 0.88134235 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: '4sVPcGsBcbSxmKegFplT',
+    _score: null,
+    _source: {
+      video_id: 'vzu7bHCc1f8',
+      text: 'VIVO Phone VIVO',
+      views: 3450375,
+      likes: 60,
+      dislikes: 9,
+      creation_date: 1556707862000,
+      trend_score: 0.808870089
+    },
+    sort: [ 0.8088701 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: '9sVPcGsBcbSxmKegFplT',
+    _score: null,
+    _source: {
+      video_id: 'kkE1qkhE9D0',
+      text: 'Watch Play VIVO You have superpower time test This ' +
+        'VIVO Watch Play with every ball Rules and ' +
+        'Regulations apply For more updates com Twitter ' +
+        'twitter com com',
+      views: 28397330,
+      likes: 303,
+      dislikes: 52,
+      creation_date: 1523448922000,
+      trend_score: 0.7569202355
+    },
+    sort: [ 0.7569202 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'QcVPcGsBcbSxmKegFppV',
+    _score: null,
+    _source: {
+      video_id: 'BIM7OLUIDqs',
+      text: 'VIVO Phone VIVO',
+      views: 3092222,
+      likes: 93,
+      dislikes: 11,
+      creation_date: 1556707911000,
+      trend_score: 0.7251143473
+    },
+    sort: [ 0.72511435 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'SMVPcGsBcbSxmKegFplP',
+    _score: null,
+    _source: {
+      video_id: 'nPp2JCDPFKM',
+      text: 'Smart Agar common sense Mon Fri Apply bit ' +
+        'For more updates com Twitter twitter com ' +
+        'com',
+      views: 21864796,
+      likes: 58,
+      dislikes: 16,
+      creation_date: 1529674569000,
+      trend_score: 0.698588075
+    },
+    sort: [ 0.6985881 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'w8VPcGsBcbSxmKegFppX',
+    _score: null,
+    _source: {
+      video_id: 'c3C2q5v4jgc',
+      text: 'Comedy time find your kind funny Click here watch ' +
+        'now goo For more updates com Twitter twitter com ' +
+        'com',
+      views: 15990565,
+      likes: 75,
+      dislikes: 13,
+      creation_date: 1524229508000,
+      trend_score: 0.4352158419
+    },
+    sort: [ 0.43521583 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'KMVPcGsBcbSxmKegFppU',
+    _score: null,
+    _source: {
+      video_id: 'Uvby-cXo_Bg',
+      text: 'VIVO Phone VIVO',
+      views: 3157675,
+      likes: 94,
+      dislikes: 12,
+      creation_date: 1553525938000,
+      trend_score: 0.4241732577
+    },
+    sort: [ 0.42417327 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'T8VPcGsBcbSxmKegFplP',
+    _score: null,
+    _source: {
+      video_id: 'Bnc-96F-wp8',
+      text: 'with Season back asking all the wrong questions with Season ' +
+        'premieres October For more updates com Twitter twitter com ' +
+        'com',
+      views: 9075676,
+      likes: 149,
+      dislikes: 81,
+      creation_date: 1538651450000,
+      trend_score: 0.4067533205
+    },
+    sort: [ 0.40675333 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'NsVPcGsBcbSxmKegFppU',
+    _score: null,
+    _source: {
+      video_id: 'Ukg0xLRGMFQ',
+      text: 'with Season back asking all the wrong questions with Season ' +
+        'premieres October For more updates com Twitter twitter com ' +
+        'com',
+      views: 8407892,
+      likes: 1264,
+      dislikes: 168,
+      creation_date: 1539862182000,
+      trend_score: 0.399588336
+    },
+    sort: [ 0.39958835 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'jcVPcGsBcbSxmKegFppW',
+    _score: null,
+    _source: {
+      video_id: 'dYy5Cce5EB8',
+      text: 'Fastest Cricket Scorecard Cricket par fastest ' +
+        'scorecard For more updates com Twitter twitter com ' +
+        'com',
+      views: 11291219,
+      likes: 711,
+      dislikes: 723,
+      creation_date: 1526976035000,
+      trend_score: 0.332945984
+    },
+    sort: [ 0.33294597 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'eMVPcGsBcbSxmKegFppW',
+    _score: null,
+    _source: {
+      video_id: '3I2WHHYb-V4',
+      text: 'Boss Tamil Boss the one who knows more Watch find out what makes the ' +
+        'guy get the inside scoop all gossip Big Boss Tamil with unseen footage ' +
+        'Midnight and Morning only For more updates com Twitter twitter com com',
+      views: 8620650,
+      likes: 415,
+      dislikes: 245,
+      creation_date: 1532332688000,
+      trend_score: 0.3014343759
+    },
+    sort: [ 0.30143437 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'lcVPcGsBcbSxmKegFppX',
+    _score: null,
+    _source: {
+      video_id: 'yMvDskBNz-0',
+      text: 'Patrick Premium Watch Benedict his scathing best ' +
+        'Patrick streaming exclusively Premium Only for ' +
+        'months',
+      views: 6109144,
+      likes: 319,
+      dislikes: 255,
+      creation_date: 1538385211000,
+      trend_score: 0.2709436011
+    },
+    sort: [ 0.2709436 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'j8VPcGsBcbSxmKegFplQ',
+    _score: null,
+    _source: {
+      video_id: 'kkvpctG_V4Y',
+      text: 'Watch Play VIVO You have superpower time test This ' +
+        'VIVO Watch Play with every ball Rules and ' +
+        'Regulations apply For more updates com Twitter ' +
+        'twitter com com',
+      views: 9161734,
+      likes: 55,
+      dislikes: 23,
+      creation_date: 1523952147000,
+      trend_score: 0.2475021151
+    },
+    sort: [ 0.24750212 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'UcVPcGsBcbSxmKegFplP',
+    _score: null,
+    _source: {
+      video_id: 'Lwhozxw1b4E',
+      text: 'Fastest Scorecard VIVO Don let slower score ' +
+        'checking ruin your perfect match Upgrade the ' +
+        'Fastest Scorecard For more updates com Twitter ' +
+        'twitter com com',
+      views: 8280637,
+      likes: 30,
+      dislikes: 6,
+      creation_date: 1524310028000,
+      trend_score: 0.2258641472
+    },
+    sort: [ 0.22586414 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'dcVPcGsBcbSxmKegFppW',
+    _score: null,
+    _source: {
+      video_id: 'xDtDr5CJqzg',
+      text: 'Dance Teen Teen Magic Dance cos here Dance This Sat Sun and bit',
+      views: 2646015,
+      likes: 19130,
+      dislikes: 658,
+      creation_date: 1547127939000,
+      trend_score: 0.2196655394
+    },
+    sort: [ 0.21966554 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'zcVPcGsBcbSxmKegFplS',
+    _score: null,
+    _source: {
+      video_id: 'fSN7J_DqbmU',
+      text: 'super hit film',
+      views: 2602730,
+      likes: 1223,
+      dislikes: 284,
+      creation_date: 1548767360000,
+      trend_score: 0.2156697024
+    },
+    sort: [ 0.2156697 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'mMVPcGsBcbSxmKegFppX',
+    _score: null,
+    _source: {
+      video_id: 'BoUNUgzFIiA',
+      text: 'with Season back asking all the wrong questions with Season ' +
+        'premieres October For more updates com Twitter twitter com ' +
+        'com',
+      views: 4285864,
+      likes: 135,
+      dislikes: 39,
+      creation_date: 1539515013000,
+      trend_score: 0.199874114
+    },
+    sort: [ 0.19987412 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'TsVPcGsBcbSxmKegFplP',
+    _score: null,
+    _source: {
+      video_id: 'cnQXw5chci8',
+      text: 'VIVO Final Tonight Don miss out the final battle the VIVO crown',
+      views: 510648,
+      likes: 4064,
+      dislikes: 484,
+      creation_date: 1557561309000,
+      trend_score: 0.1762214509
+    },
+    sort: [ 0.17622145 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'wcVPcGsBcbSxmKegFplS',
+    _score: null,
+    _source: {
+      video_id: 'T6Zg5REeBUQ',
+      text: 'Fastest Scorecard VIVO Tired score checking ' +
+        'that fail deliver time Upgrade the Fastest ' +
+        'Scorecard For more updates com Twitter twitter ' +
+        'com com',
+      views: 6353832,
+      likes: 15,
+      dislikes: 5,
+      creation_date: 1524312559000,
+      trend_score: 0.1733160724
+    },
+    sort: [ 0.17331608 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'isVPcGsBcbSxmKegFplQ',
+    _score: null,
+    _source: {
+      video_id: 'x1QT_iwGFb0',
+      text: 'Boss Season Tamil Watch all Episodes Unseen Drama ' +
+        'exclusively For more updates com Twitter twitter com ' +
+        'com',
+      views: 5341375,
+      likes: 108,
+      dislikes: 31,
+      creation_date: 1529503157000,
+      trend_score: 0.1698062019
+    },
+    sort: [ 0.1698062 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'TcVPcGsBcbSxmKegFplP',
+    _score: null,
+    _source: {
+      video_id: 'Hrzl5HJpx9M',
+      text: 'Womens Promo SEC Watch Zara Main',
+      views: 8055491,
+      likes: 237,
+      dislikes: 90,
+      creation_date: 1513057622000,
+      trend_score: 0.1682477389
+    },
+    sort: [ 0.16824774 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'WcVPcGsBcbSxmKegFplP',
+    _score: null,
+    _source: {
+      video_id: 'PnahJ784J2Q',
+      text: 'VIVO Final Streaming Live Now India Why you ' +
+        'Watch battle the VIVO Final Streaming Live Now ' +
+        'only',
+      views: 491576,
+      likes: 1814,
+      dislikes: 515,
+      creation_date: 1557560925000,
+      trend_score: 0.1576175272
+    },
+    sort: [ 0.15761752 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'EMVPcGsBcbSxmKegFppU',
+    _score: null,
+    _source: {
+      video_id: 'EJkNBr1gdjY',
+      text: 'guide easy win and put unbeaten run ' +
+        'partnership give wicket victory over',
+      views: 13454114,
+      likes: 43488,
+      dislikes: 5375,
+      creation_date: 1463426473000,
+      trend_score: 0.1479400954
+    },
+    sort: [ 0.1479401 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'lsVPcGsBcbSxmKegFplR',
+    _score: null,
+    _source: {
+      video_id: 'HccibHNnpDM',
+      text: 'Watch VIVO Starts April sec com sports cricket tournament vivo',
+      views: 9886832,
+      likes: 91,
+      dislikes: 26,
+      creation_date: 1491041864000,
+      trend_score: 0.1414084728
+    },
+    sort: [ 0.14140847 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: '-MVPcGsBcbSxmKegFplT',
+    _score: null,
+    _source: {
+      video_id: 'wSp9qlkpqC0',
+      text: 'Premium and more With the release Desi ' +
+        'Pool has couple thoughts Premium and ' +
+        'more',
+      views: 4510199,
+      likes: 48,
+      dislikes: 40,
+      creation_date: 1526636824000,
+      trend_score: 0.131396827
+    },
+    sort: [ 0.13139683 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'xMVPcGsBcbSxmKegFppX',
+    _score: null,
+    _source: {
+      video_id: 'rQa1Ge8bt74',
+      text: 'The Watch the documentary Starting Nov',
+      views: 6063273,
+      likes: 43,
+      dislikes: 13,
+      creation_date: 1510900844000,
+      trend_score: 0.1211076598
+    },
+    sort: [ 0.12110766 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'W8VPcGsBcbSxmKegFplP',
+    _score: null,
+    _source: {
+      video_id: '-FVZVxYoCYU',
+      text: 'far VIVO matter how far your enjoy this ' +
+        'VIVO with them Watch Play and Chat every ' +
+        'ball',
+      views: 719130,
+      likes: 7762,
+      dislikes: 1685,
+      creation_date: 1552110935000,
+      trend_score: 0.1024411871
+    },
+    sort: [ 0.102441184 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'ccVPcGsBcbSxmKegFplQ',
+    _score: null,
+    _source: {
+      video_id: 'Inds9Y33llA',
+      text: 'blistering knock helps win scored quick fire ball ' +
+        'Indians beat Delhi Daredevils runs remain the playoffs ' +
+        'hunt',
+      views: 8599495,
+      likes: 29166,
+      dislikes: 2770,
+      creation_date: 1463339036000,
+      trend_score: 0.0946187434
+    },
+    sort: [ 0.094618745 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'NMVPcGsBcbSxmKegFppU',
+    _score: null,
+    _source: {
+      video_id: 'KiDj5MfGI2g',
+      text: 'Khan with Bizarre coincidences Marriage tips Tons Gossip are here slay',
+      views: 873523,
+      likes: 2253,
+      dislikes: 277,
+      creation_date: 1551081838000,
+      trend_score: 0.093408004
+    },
+    sort: [ 0.093408 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: '0cVPcGsBcbSxmKegFppY',
+    _score: null,
+    _source: {
+      video_id: 'nCBNNQzqkF4',
+      text: 'Gayle take spot with thumping win over century ' +
+        'from captain led the way beat rain marred ' +
+        'encounter',
+      views: 7581308,
+      likes: 26966,
+      dislikes: 2331,
+      creation_date: 1463604660000,
+      trend_score: 0.0838779839
+    },
+    sort: [ 0.08387798 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'vsVPcGsBcbSxmKegFplS',
+    _score: null,
+    _source: {
+      video_id: 'GHXpNlBfsdQ',
+      text: 'Fastest Cricket Scorecard When you slower cricket scorecard the ' +
+        'truth going hard swallow For more updates com Twitter twitter com ' +
+        'com',
+      views: 2831968,
+      likes: 24,
+      dislikes: 27,
+      creation_date: 1527150331000,
+      trend_score: 0.0837544882
+    },
+    sort: [ 0.08375449 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: '9MVPcGsBcbSxmKegFplT',
+    _score: null,
+    _source: {
+      video_id: '7dLF1DuEnKM',
+      text: 'The only game wants you Play Watch Play This Asia Cup ' +
+        'wants you stop playing meaningless games switch the only ' +
+        'game that matters For more updates com Twitter twitter com ' +
+        'com',
+      views: 1911101,
+      likes: 60,
+      dislikes: 5,
+      creation_date: 1537447037000,
+      trend_score: 0.0812812157
+    },
+    sort: [ 0.081281215 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'RcVPcGsBcbSxmKegFppV',
+    _score: null,
+    _source: {
+      video_id: 'mMn6IS6dfRc',
+      text: 'Premium Sharp Objects Trailer When demons from your past ' +
+        'come back haunt you The most anticipated show the year ' +
+        'Sharp Objects starring Amy Adams now streaming Premium',
+      views: 2413425,
+      likes: 30,
+      dislikes: 8,
+      creation_date: 1531127666000,
+      trend_score: 0.0808837912
+    },
+    sort: [ 0.08088379 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'hMVPcGsBcbSxmKegFplQ',
+    _score: null,
+    _source: {
+      video_id: 'cyq1mwCH9bM',
+      text: 'Take May onwards only Watch Season only',
+      views: 4989666,
+      likes: 17628,
+      dislikes: 4497,
+      creation_date: 1493804270000,
+      trend_score: 0.0808707384
+    },
+    sort: [ 0.08087074 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'fMVPcGsBcbSxmKegFppW',
+    _score: null,
+    _source: {
+      video_id: 'eM60TVh9gII',
+      text: 'Air With Season Watch every Monday Wednesday Friday',
+      views: 5809171,
+      likes: 87,
+      dislikes: 35,
+      creation_date: 1488518035000,
+      trend_score: 0.0802074955
+    },
+    sort: [ 0.0802075 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'EsVPcGsBcbSxmKegFppU',
+    _score: null,
+    _source: {
+      video_id: 'M4pFPQRH7N0',
+      text: 'Watch VIVO Starts April com sports cricket tournament vivo',
+      views: 5424451,
+      likes: 884,
+      dislikes: 425,
+      creation_date: 1490335117000,
+      trend_score: 0.0771605529
+    },
+    sort: [ 0.07716055 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'tcVPcGsBcbSxmKegFppX',
+    _score: null,
+    _source: {
+      video_id: '6Kw_yvSZs4s',
+      text: 'Watch Play What cerulean blue like light blue Purple Neon EVEN ' +
+        'Answer all these questions for very confused tailor before Rules ' +
+        'and Regulations apply For more updates com Twitter twitter com ' +
+        'com',
+      views: 2624341,
+      likes: 28,
+      dislikes: 7,
+      creation_date: 1526037094000,
+      trend_score: 0.0751339509
+    },
+    sort: [ 0.07513395 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'BsVPcGsBcbSxmKegFppT',
+    _score: null,
+    _source: {
+      video_id: 'YWCQ-yuC4y0',
+      text: 'Watch only com',
+      views: 4383385,
+      likes: 14704,
+      dislikes: 2556,
+      creation_date: 1486752163000,
+      trend_score: 0.0637077462
+    },
+    sort: [ 0.06370775 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'OsVPcGsBcbSxmKegFplO',
+    _score: null,
+    _source: {
+      video_id: 'dD_rdS65R1A',
+      text: 'Premium Come fall love Not the yesteryear don you fear shed ' +
+        'tear kinda love Rather the exciting tantalizing flirting ' +
+        'fire starting kinda love Explore with Premium Love Cheat ' +
+        'Repeat',
+      views: 2484492,
+      likes: 122,
+      dislikes: 28,
+      creation_date: 1518266573000,
+      trend_score: 0.0582432591
+    },
+    sort: [ 0.05824326 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'PcVPcGsBcbSxmKegFppV',
+    _score: null,
+    _source: {
+      video_id: 'BXPbbBardrk',
+      text: 'VIVO Anthem Presenting the most awaited anthem the ' +
+        'season sher For more updates com Twitter twitter com ' +
+        'com',
+      views: 1708793,
+      likes: 22501,
+      dislikes: 1020,
+      creation_date: 1522138873000,
+      trend_score: 0.0561126884
+    },
+    sort: [ 0.056112688 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'z8VPcGsBcbSxmKegFplS',
+    _score: null,
+    _source: {
+      video_id: '2isbQWgUK3U',
+      text: 'The new way NEWS Guilty Innocent What the verdict ' +
+        'Watch the get the news Click here watch now com ' +
+        'news For more updates com Twitter twitter com com',
+      views: 1738665,
+      likes: 8,
+      dislikes: 3,
+      creation_date: 1526468198000,
+      trend_score: 0.0503921769
+    },
+    sort: [ 0.050392177 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'HMVPcGsBcbSxmKegFppU',
+    _score: null,
+    _source: {
+      video_id: 'g7w3k0hOMNc',
+      text: 'new Original',
+      views: 3658479,
+      likes: 1658,
+      dislikes: 1627,
+      creation_date: 1486707185000,
+      trend_score: 0.0501450989
+    },
+    sort: [ 0.050145097 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'DsVPcGsBcbSxmKegFppT',
+    _score: null,
+    _source: {
+      video_id: 'uEI1-OZWrJc',
+      text: 'The new way NEWS boy girl Watch the get the news Click here ' +
+        'watch now com news For more updates com Twitter twitter com ' +
+        'com',
+      views: 1705430,
+      likes: 12,
+      dislikes: 9,
+      creation_date: 1526907229000,
+      trend_score: 0.0500718978
+    },
+    sort: [ 0.0500719 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'ycVPcGsBcbSxmKegFplS',
+    _score: null,
+    _source: {
+      video_id: '7Y3HPh982Xg',
+      text: 'Smith Raina help Lions move spot Dwayne Smith took for ' +
+        'while Raina scored Gujarat Lions defeated Knight Riders ' +
+        'wickets',
+      views: 4379140,
+      likes: 13420,
+      dislikes: 1737,
+      creation_date: 1463682913000,
+      trend_score: 0.0481258914
+    },
+    sort: [ 0.048125893 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'XcVPcGsBcbSxmKegFplP',
+    _score: null,
+    _source: {
+      video_id: 'DTC-vrIed0U',
+      text: 'VIVO Final Here your ticket for the Sunday Blockbuster VIVO final',
+      views: 129722,
+      likes: 1152,
+      dislikes: 129,
+      creation_date: 1557561160000,
+      trend_score: 0.0455003888
+    },
+    sort: [ 0.04550039 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'L8VPcGsBcbSxmKegFppU',
+    _score: null,
+    _source: {
+      video_id: 'd1b4tLUWYa8',
+      text: 'The new way NEWS boy girl Watch the get the news Click here ' +
+        'watch now com news For more updates com Twitter twitter com ' +
+        'com',
+      views: 1512727,
+      likes: 8,
+      dislikes: 3,
+      creation_date: 1526907191000,
+      trend_score: 0.0444095571
+    },
+    sort: [ 0.04440956 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'ScVPcGsBcbSxmKegFppV',
+    _score: null,
+    _source: {
+      video_id: 'cgC7UexVs_0',
+      text: 'The new way NEWS Guilty Innocent What the verdict ' +
+        'Watch the get the news Click here watch now com ' +
+        'news For more updates com Twitter twitter com com',
+      views: 1487957,
+      likes: 5,
+      dislikes: 4,
+      creation_date: 1526467492000,
+      trend_score: 0.04312472
+    },
+    sort: [ 0.04312472 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'y8VPcGsBcbSxmKegFplS',
+    _score: null,
+    _source: {
+      video_id: 'kGBScSmEeYY',
+      text: 'Khan Jonas with Season Contention Commonality You know ' +
+        'what and common history means them when you watch the full ' +
+        'episode FINALE For more updates com Twitter twitter com ' +
+        'com',
+      views: 385465,
+      likes: 1356,
+      dislikes: 145,
+      creation_date: 1551182950000,
+      trend_score: 0.0424298065
+    },
+    sort: [ 0.042429805 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'BcVPcGsBcbSxmKegFppT',
+    _score: null,
+    _source: {
+      video_id: 'W3vxWnY732U',
+      text: 'Watch Game Thrones Season With English subtitles ' +
+        'Start your free trial com subscribe get started',
+      views: 2545136,
+      likes: 73,
+      dislikes: 114,
+      creation_date: 1500181416000,
+      trend_score: 0.041926561
+    },
+    sort: [ 0.041926563 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'C8VPcGsBcbSxmKegFppT',
+    _score: null,
+    _source: {
+      video_id: 'TamiWI-339U',
+      text: 'The Files Watch All Episodes The Files English supernatural drama ' +
+        'starring Gillian Anderson David and Mitch FBI special agents Dana and ' +
+        'Fox Mulder investigate unexplained cases Files for which the only ' +
+        'answers involve paranormal phenomena Watch full episodes The Files ' +
+        'only',
+      views: 1929081,
+      likes: 67,
+      dislikes: 43,
+      creation_date: 1514883513000,
+      trend_score: 0.041900816
+    },
+    sort: [ 0.041900817 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: '5sVPcGsBcbSxmKegFppY',
+    _score: null,
+    _source: {
+      video_id: 'Ohv9sMHgjGY',
+      text: 'Watch India Australia',
+      views: 2258629,
+      likes: 1039,
+      dislikes: 420,
+      creation_date: 1505917096000,
+      trend_score: 0.0415525988
+    },
+    sort: [ 0.0415526 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'c8VPcGsBcbSxmKegFppW',
+    _score: null,
+    _source: {
+      video_id: 'tW4uGtCK940',
+      text: 'The break their silence Watch the interview',
+      views: 2107993,
+      likes: 30,
+      dislikes: 10,
+      creation_date: 1509190844000,
+      trend_score: 0.0407225561
+    },
+    sort: [ 0.040722556 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'XcVPcGsBcbSxmKegFppV',
+    _score: null,
+    _source: {
+      video_id: 'qkeRM-5kXRE',
+      text: 'Interview with after Boss Tamil Exclusive the first ' +
+        'contestant ousted from the house Red Card elimination comes ' +
+        'clean about his relationships inside the house and outside ' +
+        'Watch the whole video here For more updates com Twitter ' +
+        'twitter com com',
+      views: 816858,
+      likes: 3944,
+      dislikes: 1308,
+      creation_date: 1535376421000,
+      trend_score: 0.036013301
+    },
+    sort: [ 0.0360133 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'zsVPcGsBcbSxmKegFppX',
+    _score: null,
+    _source: {
+      video_id: 'QM375U07nTc',
+      text: 'Dance Believe Pinch yourself believe ' +
+        'this real Dance This Sat Sun and bit',
+      views: 380345,
+      likes: 3948,
+      dislikes: 86,
+      creation_date: 1547127594000,
+      trend_score: 0.0332926604
+    },
+    sort: [ 0.03329266 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'hsVPcGsBcbSxmKegFplQ',
+    _score: null,
+    _source: {
+      video_id: '_8YyRpU4G9Q',
+      text: 'Boss Tamil Fun Unlimited with Rio Raj Exclusive Watch out ' +
+        'Rio Raj has few words for you Watch Boss Fun Unlimited now ' +
+        'com source For more updates com Twitter twitter com com',
+      views: 742969,
+      likes: 9305,
+      dislikes: 549,
+      creation_date: 1530191001000,
+      trend_score: 0.030536697
+    },
+    sort: [ 0.030536696 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'u8VPcGsBcbSxmKegFplS',
+    _score: null,
+    _source: {
+      video_id: 'yeIgfm8XUdA',
+      text: 'Golden Divas with the Heart Heart with Shah Khan gets close ' +
+        'and personal with The star not only talks about her journey ' +
+        'the film industry but also about some lesser known facts her ' +
+        'life And that not all this super special episode Watch only',
+      views: 1448071,
+      likes: 315,
+      dislikes: 74,
+      creation_date: 1512712026000,
+      trend_score: 0.0301648162
+    },
+    sort: [ 0.030164815 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'NcVPcGsBcbSxmKegFppU',
+    _score: null,
+    _source: {
+      video_id: 'TJb50gQ-xIM',
+      text: 'Watch Game Thrones Season Minutes after America Hours ' +
+        'before Torrents Start your free trial com subscribe get ' +
+        'started',
+      views: 1817825,
+      likes: 34,
+      dislikes: 93,
+      creation_date: 1500365168000,
+      trend_score: 0.0300340343
+    },
+    sort: [ 0.030034034 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: '4sVPcGsBcbSxmKegFppY',
+    _score: null,
+    _source: {
+      video_id: '-NKt4V5osbM',
+      text: 'Watch with',
+      views: 2047561,
+      likes: 3209,
+      dislikes: 363,
+      creation_date: 1484306944000,
+      trend_score: 0.0276385558
+    },
+    sort: [ 0.027638556 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'esVPcGsBcbSxmKegFppW',
+    _score: null,
+    _source: {
+      video_id: 'ljIvzpFut-0',
+      text: 'hurt Delhi play off chances rainy Rising ' +
+        'beat Delhi Daredevils runs via Lewis ' +
+        'method',
+      views: 2358452,
+      likes: 11905,
+      dislikes: 1079,
+      creation_date: 1463515730000,
+      trend_score: 0.0268637918
+    },
+    sort: [ 0.026863791 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'gMVPcGsBcbSxmKegFplQ',
+    _score: null,
+    _source: {
+      video_id: 'yNFhPqrdsDc',
+      text: 'Watch Only',
+      views: 1880498,
+      likes: 878,
+      dislikes: 64,
+      creation_date: 1486970233000,
+      trend_score: 0.0256649929
+    },
+    sort: [ 0.025664993 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'scVPcGsBcbSxmKegFplR',
+    _score: null,
+    _source: {
+      video_id: 'JDqbvUUDO_E',
+      text: 'Take Now Streaming',
+      views: 1664926,
+      likes: 59,
+      dislikes: 4,
+      creation_date: 1495025600000,
+      trend_score: 0.0252645197
+    },
+    sort: [ 0.02526452 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'uMVPcGsBcbSxmKegFppX',
+    _score: null,
+    _source: {
+      video_id: 'f6FOIrfaAPY',
+      text: 'Watch Game Thrones Season Minutes after America Hours ' +
+        'before Torrents Start your free trial com subscribe get ' +
+        'started',
+      views: 1430751,
+      likes: 83,
+      dislikes: 117,
+      creation_date: 1500020061000,
+      trend_score: 0.0235378028
+    },
+    sort: [ 0.023537803 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'ocVPcGsBcbSxmKegFppX',
+    _score: null,
+    _source: {
+      video_id: 'F5GDsQHetGE',
+      text: 'Specials Big bold and authentic Indian stories available seven ' +
+        'languages from country best storytellers Specials launching ' +
+        'March',
+      views: 208613,
+      likes: 239,
+      dislikes: 17,
+      creation_date: 1551765345000,
+      trend_score: 0.023206886
+    },
+    sort: [ 0.023206886 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'PsVPcGsBcbSxmKegFppV',
+    _score: null,
+    _source: {
+      video_id: 'XNYa9sOPEBw',
+      text: 'Roy with Season There more these hunks than meets the ' +
+        'eye Discover Roy hidden talents the latest episode ' +
+        'Watch now For more updates com Twitter twitter com ' +
+        'com',
+      views: 208853,
+      likes: 2285,
+      dislikes: 121,
+      creation_date: 1549285151000,
+      trend_score: 0.0219821239
+    },
+    sort: [ 0.021982124 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'rMVPcGsBcbSxmKegFplR',
+    _score: null,
+    _source: {
+      video_id: '1_YqQuZTvis',
+      text: 'Watch with Mira',
+      views: 1629759,
+      likes: 2367,
+      dislikes: 197,
+      creation_date: 1483017321000,
+      trend_score: 0.0215634153
+    },
+    sort: [ 0.021563414 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'isVPcGsBcbSxmKegFppW',
+    _score: null,
+    _source: {
+      video_id: 'ePWDJ9T6U0U',
+      text: 'Interview with after Boss Tamil Exclusive What got say about ' +
+        'his shocking eviction from the Boss Tamil house Watch the ' +
+        'full story here For more updates com Twitter twitter com com',
+      views: 428827,
+      likes: 2891,
+      dislikes: 407,
+      creation_date: 1536582515000,
+      trend_score: 0.020284203
+    },
+    sort: [ 0.020284204 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'Q8VPcGsBcbSxmKegFppV',
+    _score: null,
+    _source: {
+      video_id: 'ixjoYk1KXqo',
+      text: 'Interview with after Boss Tamil Exclusive Once you leave the ' +
+        'Boss house the gloves come off And has some strong opinions ' +
+        'and her time the Boss Tamil House Click here watch the ' +
+        'entire interview For more updates com Twitter twitter com ' +
+        'com',
+      views: 535823,
+      likes: 2172,
+      dislikes: 316,
+      creation_date: 1531907632000,
+      trend_score: 0.0201455512
+    },
+    sort: [ 0.02014555 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'OMVPcGsBcbSxmKegFplO',
+    _score: null,
+    _source: {
+      video_id: 'cUcjViHX_Ys',
+      text: 'Air With Watch Now',
+      views: 2231994,
+      likes: 1473,
+      dislikes: 624,
+      creation_date: 1445188683000,
+      trend_score: 0.0196390155
+    },
+    sort: [ 0.019639015 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: '0MVPcGsBcbSxmKegFplS',
+    _score: null,
+    _source: {
+      video_id: 'iayQnNuctgo',
+      text: 'watch movies serials sports for free solo with Watch ' +
+        'full movies serials sports Available languages ' +
+        'Absolutely Free Download the now Visit com download ' +
+        'the from',
+      views: 2559987,
+      likes: 2395,
+      dislikes: 1456,
+      creation_date: 1422727413000,
+      trend_score: 0.0190744914
+    },
+    sort: [ 0.019074492 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: '0MVPcGsBcbSxmKegFppY',
+    _score: null,
+    _source: {
+      video_id: 'Q7p9UgGjaMk',
+      text: 'Impromptu with with Season and Kumar flex their acting chops ' +
+        'the couch Catch season watch all the madness unfold You don ' +
+        'want miss this For more updates com Twitter twitter com com',
+      views: 315026,
+      likes: 1924,
+      dislikes: 176,
+      creation_date: 1540880997000,
+      trend_score: 0.0177675759
+    },
+    sort: [ 0.017767577 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'QMVPcGsBcbSxmKegFplO',
+    _score: null,
+    _source: {
+      video_id: 'o4SFrh0lYqs',
+      text: 'Download Shows Movies for Free film sec Choose ' +
+        'your video quality download videos and watch them ' +
+        'the',
+      views: 1514111,
+      likes: 595,
+      dislikes: 362,
+      creation_date: 1474613712000,
+      trend_score: 0.0177538659
+    },
+    sort: [ 0.017753866 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'hcVPcGsBcbSxmKegFppW',
+    _score: null,
+    _source: {
+      video_id: 'CX3oD3MJUos',
+      text: 'Watch with Khan',
+      views: 1357233,
+      likes: 1765,
+      dislikes: 271,
+      creation_date: 1481807430000,
+      trend_score: 0.0176580985
+    },
+    sort: [ 0.017658098 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'P8VPcGsBcbSxmKegFplO',
+    _score: null,
+    _source: {
+      video_id: 'CjkDfnBc_z8',
+      text: 'Watch with com with',
+      views: 1349440,
+      likes: 2510,
+      dislikes: 140,
+      creation_date: 1481279008000,
+      trend_score: 0.0175973186
+    },
+    sort: [ 0.017597318 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'h8VPcGsBcbSxmKegFplQ',
+    _score: null,
+    _source: {
+      video_id: 'elipv8xaF0w',
+      text: 'Dance Legendary Beauty This weekend witness the ' +
+        'presence the legendary beauty who stole the ' +
+        'hearts with her iconic moves Dance This Sat Sun ' +
+        'and bit',
+      views: 179140,
+      likes: 2831,
+      dislikes: 54,
+      creation_date: 1547128252000,
+      trend_score: 0.0171040798
+    },
+    sort: [ 0.01710408 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'MMVPcGsBcbSxmKegFppU',
+    _score: null,
+    _source: {
+      video_id: 'TbqG_rMDq6Y',
+      text: 'Golden Divas with the Alia Straight Talk with Alia Today ' +
+        'the King Khan will chat his Dear star Alia The actress who ' +
+        'already made name for herself given her enviable body work ' +
+        'talks Khan about all things personal and professional ' +
+        'Watch out for the little surprises along the way Watch ' +
+        'only',
+      views: 808628,
+      likes: 303,
+      dislikes: 84,
+      creation_date: 1512712012000,
+      trend_score: 0.0169149065
+    },
+    sort: [ 0.016914906 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'q8VPcGsBcbSxmKegFppX',
+    _score: null,
+    _source: {
+      video_id: 'K4pivVmV1yc',
+      text: 'Watch all the episodes Watch all the episodes from the start ' +
+        'till the latest episode for Free Download the from visit com',
+      views: 2144920,
+      likes: 4000,
+      dislikes: 1179,
+      creation_date: 1427721985000,
+      trend_score: 0.0168738842
+    },
+    sort: [ 0.016873885 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'B8VPcGsBcbSxmKegFppT',
+    _score: null,
+    _source: {
+      video_id: 'djR_2e_4WWg',
+      text: 'Premium Succession Trailer From the makers The Big ' +
+        'Short comes dark drama about family dysfunction with ' +
+        'billion dollar twist Succession now streaming Premium',
+      views: 517212,
+      likes: 27,
+      dislikes: 6,
+      creation_date: 1530275593000,
+      trend_score: 0.0168689884
+    },
+    sort: [ 0.016868988 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'tsVPcGsBcbSxmKegFplR',
+    _score: null,
+    _source: {
+      video_id: '1yMg9G9pyDU',
+      text: 'Suffering From Official Trailer Now Streaming the mood for ' +
+        'love Think again From director comes story four couples ' +
+        'exploring the many meanings modern day love Binge watch all ' +
+        'episodes the new Tamil series Suffering From directed ' +
+        'exclusively Click here watch now bit For more updates com ' +
+        'Twitter twitter com com',
+      views: 1008604,
+      likes: 2030,
+      dislikes: 183,
+      creation_date: 1497592962000,
+      trend_score: 0.0166113308
+    },
+    sort: [ 0.01661133 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'bsVPcGsBcbSxmKegFplQ',
+    _score: null,
+    _source: {
+      video_id: '0DSqApxP0no',
+      text: 'With Season There much more the than you thought Watch the ' +
+        'latest episode find out For more updates com Twitter twitter com ' +
+        'com',
+      views: 195514,
+      likes: 591,
+      dislikes: 88,
+      creation_date: 1548079263000,
+      trend_score: 0.0162138928
+    },
+    sort: [ 0.016213892 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'YcVPcGsBcbSxmKegFppV',
+    _score: null,
+    _source: {
+      video_id: 'sAyIJkrQTGY',
+      text: 'Big Boss Telugu Watch',
+      views: 984274,
+      likes: 41,
+      dislikes: 6,
+      creation_date: 1500029138000,
+      trend_score: 0.0161653323
+    },
+    sort: [ 0.016165333 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'acVPcGsBcbSxmKegFppW',
+    _score: null,
+    _source: {
+      video_id: 'Yr-ihx28-UY',
+      text: 'Interview with after Boss Tamil Exclusive Star child leaves the ' +
+        'household but not before dropping some major truths about the Watch ' +
+        'the full interview here For more updates com Twitter twitter com ' +
+        'com',
+      views: 377267,
+      likes: 2727,
+      dislikes: 510,
+      creation_date: 1533558618000,
+      trend_score: 0.0161218617
+    },
+    sort: [ 0.016121862 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'pMVPcGsBcbSxmKegFplR',
+    _score: null,
+    _source: {
+      video_id: 'IzkLzsUXpeg',
+      text: 'Rio Raj imitates Boss Tamil Exclusive Rio Andrews are ' +
+        'here show you the unseen side the spat Watch the full ' +
+        'video here For more updates com Twitter twitter com com',
+      views: 325968,
+      likes: 5499,
+      dislikes: 184,
+      creation_date: 1533643090000,
+      trend_score: 0.0160846471
+    },
+    sort: [ 0.016084647 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: '28VPcGsBcbSxmKegFplS',
+    _score: null,
+    _source: {
+      video_id: '3lxXHZeNrs4',
+      text: 'Watch All Episodes only',
+      views: 1922502,
+      likes: 4513,
+      dislikes: 1205,
+      creation_date: 1432737884000,
+      trend_score: 0.0158835308
+    },
+    sort: [ 0.015883531 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'CMVPcGsBcbSxmKegFppT',
+    _score: null,
+    _source: {
+      video_id: 'Jbfki4polyw',
+      text: 'shares devastating story Exclusive speaks from the ' +
+        'heart Exclusive unseen moments from Boss Tamil only ' +
+        'Click here watch For more updates com Twitter twitter ' +
+        'com com',
+      views: 409259,
+      likes: 1535,
+      dislikes: 97,
+      creation_date: 1532100736000,
+      trend_score: 0.015304124
+    },
+    sort: [ 0.015304124 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'GsVPcGsBcbSxmKegFppU',
+    _score: null,
+    _source: {
+      video_id: 'vnKLaJglrq4',
+      text: 'Sara take with Season There are secrets this modern family this tell ' +
+        'all episode with Watch now For more updates com Twitter twitter com ' +
+        'com',
+      views: 258693,
+      likes: 1011,
+      dislikes: 71,
+      creation_date: 1542632487000,
+      trend_score: 0.0152830379
+    },
+    sort: [ 0.015283038 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'OMVPcGsBcbSxmKegFppV',
+    _score: null,
+    _source: {
+      video_id: 'pxAvX2ztxEU',
+      text: 'with Season goes digging into stardom lives their ' +
+        'debut episode Watch the full episode see what ' +
+        'finds For more updates com Twitter twitter com ' +
+        'com',
+      views: 169441,
+      likes: 714,
+      dislikes: 53,
+      creation_date: 1548690655000,
+      trend_score: 0.0150416957
+    },
+    sort: [ 0.015041696 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'P8VPcGsBcbSxmKegFppV',
+    _score: null,
+    _source: {
+      video_id: 'xCzl-XMFRt4',
+      text: 'India Next Superstars',
+      views: 575183,
+      likes: 2891,
+      dislikes: 153,
+      creation_date: 1518071087000,
+      trend_score: 0.0148252079
+    },
+    sort: [ 0.014825208 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'WMVPcGsBcbSxmKegFppV',
+    _score: null,
+    _source: {
+      video_id: '6eaOEK-CssU',
+      text: 'Watch Pepsi Free Streaming All Matches Starting April watch all ' +
+        'matches the Pepsi absolutely Free Download the now from visit com',
+      views: 1936519,
+      likes: 0,
+      dislikes: 0,
+      creation_date: 1427131986000,
+      trend_score: 0.0144685588
+    },
+    sort: [ 0.014468559 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'wsVPcGsBcbSxmKegFplS',
+    _score: null,
+    _source: {
+      video_id: 'raJkJ4UWHB0',
+      text: 'Take Now Streaming',
+      views: 871472,
+      likes: 49,
+      dislikes: 16,
+      creation_date: 1494928580000,
+      trend_score: 0.0132144758
+    },
+    sort: [ 0.0132144755 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'S8VPcGsBcbSxmKegFplP',
+    _score: null,
+    _source: {
+      video_id: 'fMi5NG2FC7U',
+      text: 'years later from Nov Watch Here com',
+      views: 1366066,
+      likes: 6070,
+      dislikes: 209,
+      creation_date: 1447927213000,
+      trend_score: 0.013194799
+    },
+    sort: [ 0.013194799 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'qsVPcGsBcbSxmKegFppX',
+    _score: null,
+    _source: {
+      video_id: '-GsbOvAZmHw',
+      text: 'Ajay with Season Watch the full episode see just how much ' +
+        'millennial Catch For more updates com Twitter twitter com ' +
+        'com',
+      views: 207325,
+      likes: 888,
+      dislikes: 43,
+      creation_date: 1543841161000,
+      trend_score: 0.0131868769
+    },
+    sort: [ 0.013186877 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'F8VPcGsBcbSxmKegFppU',
+    _score: null,
+    _source: {
+      video_id: 'PGEgjtnfK8o',
+      text: 'Kanpur Story Here how got the first time saw her ' +
+        'Listen more their love story Kanpur This Sat Sun and ' +
+        'bit',
+      views: 140548,
+      likes: 1667,
+      dislikes: 327,
+      creation_date: 1547129151000,
+      trend_score: 0.0130309715
+    },
+    sort: [ 0.013030971 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'c8VPcGsBcbSxmKegFplQ',
+    _score: null,
+    _source: {
+      video_id: 'NWL2t7MrgOg',
+      text: 'Take Now streaming',
+      views: 812729,
+      likes: 643,
+      dislikes: 42,
+      creation_date: 1495779466000,
+      trend_score: 0.0126761129
+    },
+    sort: [ 0.012676113 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'pcVPcGsBcbSxmKegFplR',
+    _score: null,
+    _source: {
+      video_id: 'JVsfR0kZnzM',
+      text: 'Watch Shows Movies and Sports com',
+      views: 1216632,
+      likes: 284,
+      dislikes: 215,
+      creation_date: 1464085858000,
+      trend_score: 0.0126599217
+    },
+    sort: [ 0.012659921 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'PsVPcGsBcbSxmKegFplO',
+    _score: null,
+    _source: {
+      video_id: 'InMrEFBVpfk',
+      text: 'With Season Watch first com with',
+      views: 964244,
+      likes: 899,
+      dislikes: 67,
+      creation_date: 1480140411000,
+      trend_score: 0.0121675768
+    },
+    sort: [ 0.012167577 ]
+  },
+  {
+    _index: 'trending',
+    _type: '_doc',
+    _id: 'oMVPcGsBcbSxmKegFppX',
+    _score: null,
+    _source: {
+      video_id: 'BguaW1HFzwg',
+      text: 'This Season Watch All Episodes',
+      views: 623852,
+      likes: 9,
+      dislikes: 8,
+      creation_date: 1507032429000,
+      trend_score: 0.0115713657
+    },
+    sort: [ 0.011571365 ]
+  },
+]
+
